@@ -1,0 +1,23 @@
+.Admin{
+    text-align: center;
+}
+.Admin-Div{
+    background-color: palevioletred;
+    width: auto;
+    height: auto;
+    color: white;
+    padding: 21.5%;
+}
+.Admin-Button{
+    background-color: palevioletred;
+    color: white;
+    border: none;
+    font-size: 120%;
+    padding: 1%;
+}
+.Admin-Button:hover{
+    background-color: rgb(217, 53, 108);
+}
+.Admin-Button:active{
+    background-color: rgb(106, 55, 72);
+}

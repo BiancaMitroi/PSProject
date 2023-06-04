@@ -1,0 +1,23 @@
+{
+    "app.location": "locatie",
+    "app.price": "pret",
+    "app.property_type": "tip",
+    "app.room_number": "numar de camere",
+    "app.filter": "Filtreaza",
+    "app.auth": "Autentifica-te",
+    "app.lang": "Seteaza limba",
+    "app.username": "nume utilizator",
+    "app.password": "parola",
+    "app.login": "Logare",
+    "app.role": "rol",
+    "app.add_user": "Adauga utilizator",
+    "app.delete_user": "Sterge utilizator",
+    "app.update_user": "Modifica utilizator",
+    "app.add_prop": "adauga proprietate",
+    "app.update_prop": "modifica proprietate",
+    "app.delete_prop": "sterge proprietate",
+    "app.add_rent": "adauga chirie",
+    "app.save": "salveaza",
+    "app.mail": "adresa de mail",
+    "app.phone": "nr de tel"
+}

@@ -1,0 +1,23 @@
+.Login{
+    text-align: center;
+}
+.Login-Div{
+    background-color: palevioletred;
+    width: auto;
+    height: auto;
+    color: white;
+    padding: 21.5%;
+}
+.Login-Button{
+    background-color: palevioletred;
+    color: white;
+    border: none;
+    font-size: 120%;
+    padding: 1%;
+}
+.Login-Button:hover{
+    background-color: rgb(217, 53, 108);
+}
+.Login-Button:active{
+    background-color: rgb(106, 55, 72);
+}

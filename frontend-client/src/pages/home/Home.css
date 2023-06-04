@@ -1,0 +1,20 @@
+.Home{
+    text-align: center;
+}
+.Home-Navbar{
+    background-color: #8a2be2;
+    color: white;
+}
+.Home-Button{
+    background-color: blueviolet;
+    color: white;
+    border: none;
+    font-size: 120%;
+    padding: 1%;
+}
+.Home-Button:hover{
+    background-color: rgb(88, 28, 143);
+}
+.Home-Button:active{
+    background-color: rgb(43, 12, 74);
+}

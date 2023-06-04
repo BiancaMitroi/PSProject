@@ -1,0 +1,10 @@
+<properties>
+	<location>Baritiu</location>
+	<price>102.3</price>
+	<type>HOUSE</type>
+	<roomno>3</roomno>
+	<location>Zorilor</location>
+	<price>102.8</price>
+	<type>APARTMENT</type>
+	<roomno>2</roomno>
+</properties>

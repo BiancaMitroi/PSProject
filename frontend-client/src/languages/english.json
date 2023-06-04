@@ -1,0 +1,23 @@
+{
+    "app.location": "location",
+    "app.price": "price",
+    "app.property_type": "type",
+    "app.room_number": "room number",
+    "app.filter": "Filter",
+    "app.auth": "Authenticate",
+    "app.lang": "Set language",
+    "app.username": "username",
+    "app.password": "password",
+    "app.login": "Login",
+    "app.role": "role",
+    "app.add_user": "Add user",
+    "app.delete_user": "Delete user",
+    "app.update_user": "Update user",
+    "app.add_prop": "Add property",
+    "app.update_prop": "Update property",
+    "app.delete_prop": "Delete property",
+    "app.add_rent": "Add rent",
+    "app.save": "save",
+    "app.mail": "mail address",
+    "app.phone": "phone number"
+}

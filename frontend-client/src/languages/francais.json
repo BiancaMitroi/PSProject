@@ -1,0 +1,23 @@
+{
+    "app.location": "emplacement",
+    "app.price": "prix",
+    "app.property_type": "taper",
+    "app.room_number": "nombre de chambres",
+    "app.filter": "filtre",
+    "app.auth": "Connexion",
+    "app.lang": "Définir la langue",
+    "app.username": "nom d'utilisateur",
+    "app.password": "mot de passe",
+    "app.login": "se connecter",
+    "app.role": "rôle",
+    "app.add_user": "ajouter un utilisateur",
+    "app.delete_user": "Supprimer l'utilisateur",
+    "app.update_user": "modifier l'utilisateur",
+    "app.add_prop": "ajouter de propriétaire",
+    "app.update_prop": "changer de propriétaire",
+    "app.delete_prop": "supprimer le propriétaire",
+    "app.add_rent": "ajouter un loyer",
+    "app.save": "sauvegarder",
+    "app.mail": "adresse e-mail",
+    "app.phone": "téléphone"
+}
